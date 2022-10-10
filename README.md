@@ -10,5 +10,5 @@ Servlet과 JSP를 이용한 회원 CRUD 페이지 개발
 + Eclipse
 + Java 11
 + Servlet
-+ jsp
-+ oracle 11g
++ Jsp
++ Oracle Database 11g
